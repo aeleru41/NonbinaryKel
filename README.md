@@ -20,6 +20,8 @@ This mod will conflict with any mod that edits the `LeahsExMale.png` and `LeahsE
 
 ## Version History
 
+* 1.1.1
+    * Fixed file structure issues.
 * 1.1
     * Added i18n compatibility.
 * 1.0
