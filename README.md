@@ -1,17 +1,17 @@
 # Nonbinary Kel by aeleru41
 
-Changes dialogue about Kel to be gender neutral and adds ability to select which sprite they use.
+Changes dialogue about Kel to be gender neutral and adds ability to select which sprite they use. Available here or on [NexusMods](https://www.nexusmods.com/stardewvalley/mods/43415).
 
 ## Getting Started
 
 ### Dependencies
 
 * [SMAPI 4.5.1+](https://smapi.io/)
-* [Content Patcher 2.9.0+]()
+* [Content Patcher 2.9.0+](https://www.nexusmods.com/stardewvalley/mods/1915)
 
 ### Installing
 
-* Download the latest release here.
+* Download the latest release [here](https://github.com/aeleru41/NonbinaryKel/releases/latest).
 * Unzip folder and extract contents to your mods folder.
 
 ## Compatibility
