@@ -15,11 +15,13 @@ Changes dialogue about Kel to be gender neutral and adds ability to select which
 * Unzip folder and extract contents to your mods folder.
 
 ## Compatibility
-This mod will conflict with any mod that edits the `LeahsExMale.png` and `LeahsExFemale.png` sprites in the characters section. It will also conflict with mods that change her 4 heart event, the internet version of her 8 heart event, and her 10 heart event.
+This mod will conflict with any mod that edits the `LeahsExMale.png` and `LeahsExFemale.png` sprites in the characters section. It will also conflict with mods that change her 4 heart event, the internet version of her 8 heart event, and her 10 heart event. Please let me know about any conflicts and I will endeavour to make them compatible!
 
 
 ## Version History
 
+* 1.1
+    * Added i18n compatibility.
 * 1.0
     * Initial Release
 
