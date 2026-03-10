@@ -2,7 +2,7 @@
     "$schema": "https://smapi.io/schemas/manifest.json",
     "Name": "Nonbinary Kel",
     "Author": "aeleru41",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "Makes Kel, Leah's ex, nonbinary.",
     "UniqueID": "aeleru41.NonbinaryKel",
     "UpdateKeys": ["Nexus:43415"],
