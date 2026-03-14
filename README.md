@@ -32,6 +32,7 @@ This mod will conflict with any mod that edits the `LeahsExMale.png` and `LeahsE
 * 1.2.0
     * Changed to textoperations to increase mod compatibility and ease of translation.
     * Made GUI i18n compatible.
+    * Tweaked some dialogue to flow better.
 * 1.1.1
     * Fixed file structure issues.
 * 1.1
